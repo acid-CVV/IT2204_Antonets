@@ -1,3 +1,4 @@
 <p>Антонец Илья.<br>
 ИТ2204.</p>
-<img src=»https://avatars.mds.yandex.net/i?id=679720f2a94327342bb6a0e160ce7bb8_l-8497208-images-thumbs&n=13» alt=»Собачка»>
+![image](https://github.com/user-attachments/assets/d94cff75-6c07-455d-bc69-c2041f732f58)
+
